@@ -1,8 +1,8 @@
 __pycache__/
 *.pyc
 .venv/
-data/
-outputs/
+/data/
+/outputs/
 *.pt
 *.joblib
 *.npy
