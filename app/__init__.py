@@ -1,0 +1,1 @@
+"""Ứng dụng demo webcam."""
