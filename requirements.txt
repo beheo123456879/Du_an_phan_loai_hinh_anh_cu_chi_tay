@@ -1,0 +1,16 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+pandas
+pillow
+scikit-learn>=1.3
+scikit-image
+joblib
+matplotlib
+seaborn
+tqdm
+tensorboard
+opencv-python
+# Chỉ cần cho ứng dụng demo / prepare_custom --use_mediapipe (Kaggle không cần):
+mediapipe==0.10.21
+streamlit
